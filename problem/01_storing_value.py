@@ -6,4 +6,5 @@ f5 = input("Enter fruit number 5: ")
 f6 = input("Enter fruit number 6: ")
 f7 = input("Enter fruit number 7: ")
 myFruitList = [f1, f2, f3, f4, f5, f6, f7]
+myFruitList.sort()
 print(myFruitList)
